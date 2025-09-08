@@ -31,7 +31,7 @@ if(inputvalor>valorMinimo && inputvalor<valorMaximo){//se estiver dentro do inte
     if(caixa[1][1] !=0){
      recebeNotasCinq=inputvalor/50;
     caixa[1][1]=caixa[1][1]-recebeNotasCinq;
-    inputvalor=inputvalor-recebeNotasCinq*50;}else
+    inputvalor=inputvalor-recebeNotasCinq*50;
     recebeNotasDez=inputvalor/10;
     caixa[2][1]=caixa[2][1]-recebeNotasDez;
     inputvalor=inputvalor-recebeNotasDez*10;
