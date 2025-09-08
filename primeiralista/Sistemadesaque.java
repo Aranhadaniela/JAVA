@@ -1,7 +1,7 @@
 package primeiralista;
 import java.util.Scanner;
 import java.util.Arrays;
-//System.out.println(Arrays.deepToString(caixa));
+//System.out.println(Arrays.deepToString(caixa))//depois,criar sistema interno para gerenciamento;
 public class Sistemadesaque {
     public static void main(String[] args) {
 Scanner sc=new Scanner(System.in);
